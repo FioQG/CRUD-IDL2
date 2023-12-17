@@ -1,0 +1,36 @@
+* {
+    color: hotpink;
+}
+
+.wrapper {
+    width: 100vw;
+    height: 10vh;
+    background-color: black;
+    color: hotpink;
+}
+
+body {
+    background: hotpink;
+    color: black;
+}
+
+#btnUpdate {
+    display: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 200px;
+    background-color: pink;
+}
+
